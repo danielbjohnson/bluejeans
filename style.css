@@ -93,7 +93,3 @@ img {
     width:25%;
     margin:auto;
 }
-
-.rotate-image {
-  transform: rotate(-88deg); 
-}
